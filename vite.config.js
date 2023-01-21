@@ -1,8 +1,7 @@
-// vite.config.js
 export default {
-    base: "personal-web",
+    base: "/personal-web",
     build: {
-        outDir: "/docs"
+        outDir: "docs"
     }
   }
   
